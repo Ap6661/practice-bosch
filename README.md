@@ -37,3 +37,16 @@ airfare costs.
 | Los Angeles | Also another popular city that feels like a bucket list item. Going to a music event there could be fun. | 1 hr | $222+ |
 
 
+
+## Jokes
+
+> “People who think they know everything are a great annoyance to
+> those of us who do.”
+>
+> *- Isaac Asimov*
+
+> “It is a sobering thought that when Mozart was my age,
+> he had been dead for two years.”
+>
+> *- Tom Lehrer*
+
