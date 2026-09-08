@@ -20,3 +20,20 @@ He's **attractive** and plays a really convincing and manipulative
 --- 
 
 [My Favorite City](./myCity.md)
+
+---
+
+## Cities I want to visit
+
+These are 4 of the cities I would like to visit. The distance are the time a
+flight to that location from Las Vegas. The costs are all based on
+airfare costs. 
+
+| Cities | Reasons | Distance To Favorite City | Cost To Travel |
+|----|----|----|----|
+| Tokyo | I really enjoy Japan's culture and architecture | 12 hr 50 min | $1,096+ |
+| Paris | I think it would be fun for sightseeing | 10 hr 55 min | $1,581+ |
+| New York | Very popular city that feels like a bucket list item | 5 hr 20 min | $367+ |
+| Los Angeles | Also another popular city that feels like a bucket list item. Going to a music event there could be fun. | 1 hr | $222+ |
+
+
